@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Workflow"
+  short_description: "Design and confirm a teachable multi-skill workflow"
+  default_prompt: "Use $build-workflow to interview me and author a fixed workflow with practice exercises."

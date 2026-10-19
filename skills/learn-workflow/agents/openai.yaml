@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learn Workflow"
+  short_description: "Learn fixed skill workflows through fictional practice"
+  default_prompt: "Use $learn-workflow to teach me an approved workflow one step at a time."

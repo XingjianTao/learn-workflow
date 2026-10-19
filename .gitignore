@@ -1,0 +1,5 @@
+.DS_Store
+.learn-workflow/
+learning-records/
+__pycache__/
+.venv/
