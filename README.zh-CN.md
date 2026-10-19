@@ -62,7 +62,6 @@ skills/
     SKILL.md
     agents/openai.yaml
     assets/workflow-template.md
-    references/workflow-format.md
   learn-workflow/
     SKILL.md
     agents/openai.yaml
@@ -71,7 +70,7 @@ skills/
 evals/scenarios.md
 ```
 
-每个 skill 的必要资源都在自身目录中，可以单独安装。工作流文件可以保存在宿主能读取的其他位置；格式约定见[工作流格式说明](skills/build-workflow/references/workflow-format.md)。
+每个 skill 的必要资源都在自身目录中，可以单独安装。工作流文件可以保存在宿主能读取的其他位置；格式约定见[工作流定义模板](skills/build-workflow/assets/workflow-template.md)。
 
 ## 验证与限制
 

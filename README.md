@@ -62,7 +62,6 @@ skills/
     SKILL.md
     agents/openai.yaml
     assets/workflow-template.md
-    references/workflow-format.md
   learn-workflow/
     SKILL.md
     agents/openai.yaml
@@ -71,7 +70,7 @@ skills/
 evals/scenarios.md
 ```
 
-Each skill's required resources live inside its own directory so it can be installed separately. Workflow definitions may live anywhere the host can read; the builder's [format guide](skills/build-workflow/references/workflow-format.md) describes the contract.
+Each skill's required resources live inside its own directory so it can be installed separately. Workflow definitions may live anywhere the host can read; the builder's [definition template](skills/build-workflow/assets/workflow-template.md) describes the contract.
 
 ## Verification and limits
 

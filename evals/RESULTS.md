@@ -2,6 +2,15 @@
 
 Date: 2026-10-19. Scope: the two instruction-based skills in this repository.
 
+## Concision revision
+
+The entrypoints were reduced from 1,344 to 578 whitespace-separated words (57%); the duplicate format guide was merged into the existing template. The six original trials below describe the first version. Two independent trials were run against the shortened files:
+
+- **Resume with a corrected learning status:** the learner said the specification stage had been skipped. The teacher corrected that stage to `skipped`, used a labeled reference specification, preserved its constraints and asked only the pending task-splitting exercise. It wrote a separate temporary checkpoint without changing the supplied original.
+- **Author from two actual source files:** the builder inspected both files, proposed compatible inputs/outputs and a repair path, kept source conflicts unresolved, and requested confirmation of the assembled draft without claiming installation or execution.
+
+Both passed reviewer inspection. Both shortened skills also passed `quick_validate.py`; relative links and the working diff were checked. Other original scenarios were not rerun after this wording revision.
+
 The authoring agent inspected the responses and generated artifacts from independent agent trials. The agents received the skill, a realistic request and raw fixtures; they did not receive an expected answer. Follow-up user answers were scripted evaluation inputs, not evidence of a real learner's progress. Temporary fixtures and learning records stayed outside the public package.
 
 ## Observed behavior

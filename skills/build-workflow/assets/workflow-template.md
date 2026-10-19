@@ -15,7 +15,7 @@ State the audience, learning outcome, starting input and observable completion e
 | Role / skill | Inspected source and version/date | Input → output | Real effects / limitations |
 | --- | --- | --- | --- |
 
-Source inspection is not installation or runtime verification.
+Label sources as locally/remotely inspected, user-described or unavailable. Link contracts instead of copying whole skills; source inspection is not runtime verification.
 
 ## Fictional case
 
@@ -28,7 +28,7 @@ Define the scenario, stable constraints, non-goals and initial artifact ID.
 
 ## Branches and control
 
-Define guards, joins, repair paths and completion. Say whether any role is a controller rather than a sequential stage. Omit unnecessary branching.
+Define only needed guards, joins, repair/skip paths and completion. Distinguish controllers from sequential steps.
 
 ## Stage exercises
 
@@ -45,4 +45,4 @@ Provide a different fictional case, one challenge and a rubric assessing skill s
 
 ## Revisions
 
-Material changes create a new draft version for confirmation. Teaching preserves the active version; translated explanations may not change its contracts.
+Material changes create a new draft for confirmation. Teaching preserves the active version. For a bundled example, record author approval; custom workflows record the user's actual confirmation and its scope/date. Neither establishes runtime success.
